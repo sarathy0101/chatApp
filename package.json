@@ -1,6 +1,7 @@
 {
   "name": "socket",
   "version": "1.0.0",
+  "private": "true",
   "description": "",
   "main": "app/server/server.js",
   "scripts": {
@@ -14,5 +15,8 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.17.1"
+  },"repository": {
+    "type": "git",
+    "url" : "https://github.com/sarathy0101/chatApp.git"
   }
 }
